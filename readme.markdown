@@ -1,3 +1,2 @@
-# quack-public
-quack quack quack quack
-quack
+# I am a duck
+quack quack quack
